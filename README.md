@@ -1,4 +1,5 @@
 #Supermarket Sales Data Analysis(Interactive Dashboard creation using MS Excel)
+
 The dashboard provides a holistic view of sales performance by consolidating raw sales data into an easy-to-understand interface. With this dashboard, users can track revenue trends, monitor top-performing products, and analyze regional sales with just a few clicks.
 
 ##Features
